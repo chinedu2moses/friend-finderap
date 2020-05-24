@@ -43,6 +43,6 @@ Total Difference: 2 + 1 + 2 = 5
 
 Remember to use the absolute value of the differences. Put another way: no negative solutions! Your app should calculate both 5-3 and 3-5 as 2, and so on. The closest match will be the user with the least amount of difference.
 
-Once you've found the current user's most compatible friend, display the result as a modal pop-up.
+Once you've found the current user's most compatible friend, display the result as a modal popup.
 
 The modal should display both the name and picture of the closest match.
