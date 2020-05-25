@@ -21,7 +21,7 @@ You should save your application's data inside of app/data/friends.js as an arra
 {
    name: "Robert Downey",
    
-   ![](https://www.fillgap.news/wp-content/uploads/2020/04/robert-downey-jr-fillgapnews-696x435.jpg){:height="50%" width="50%"}
+   ![](https://www.fillgap.news/wp-content/uploads/2020/04/robert-downey-jr-fillgapnews-696x435.jpg)
    
    scores: [3, 4, 5, 4, 3, 2, 4, 3, 2, 3,]
 }
