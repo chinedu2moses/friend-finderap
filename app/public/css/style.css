@@ -7,14 +7,14 @@
   margin-right: auto;
 }
 .body {
-  background: #550303;
+  background: #f01010;
 }
 hr {
   border-color: inherit;
   margin: 1em 0;
 }
 .Mntitle {
-  color: white;
+  color: rgb(7, 99, 11);
 }
 #resultsModal img {
   overflow: hidden;
